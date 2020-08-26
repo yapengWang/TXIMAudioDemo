@@ -6,7 +6,7 @@ package com.example.tximaudiodemo.audiocall;
  * 类描述:
  */
 public class TXContents {
-    public static final int APP_ID = 1400357530;
+    public static final int APP_ID = 0;//您的APPID
 
     //角色1 主叫
     public static final String sign = GenerateTestUserSig.genTestUserSig("1");
